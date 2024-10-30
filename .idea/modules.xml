@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Desktop.iml" filepath="$PROJECT_DIR$/Java/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linerasearch/Linerasearch.iml" filepath="$PROJECT_DIR$/Linerasearch/Linerasearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathModule/MathModule.iml" filepath="$PROJECT_DIR$/MathModule/MathModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitives/Primitives.iml" filepath="$PROJECT_DIR$/Primitives/Primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
